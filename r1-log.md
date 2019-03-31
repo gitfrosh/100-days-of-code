@@ -6,7 +6,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
 
 ### R1D1 
 * set up github & logbook & twitter
-* mini-code when does the challenge finish?
+* mini-code "when does the challenge finish?"
 * check out https://github.com/florinpop17/app-ideas
 * collect projects:
     * dig into Javascript Grammar book
