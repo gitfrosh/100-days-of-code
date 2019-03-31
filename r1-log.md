@@ -5,8 +5,8 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
 ## Log
 
 ### R1D1 
-* set up github & logbook & twitter
-* mini-code "when does the challenge finish?"
+* set up github (https://github.com/gitfrosh/100-days-of-code-projects) & logbook & twitter
+* mini-code "when does the challenge finish?" (https://github.com/gitfrosh/100-days-of-code-projects/tree/master/timer)
 * check out https://github.com/florinpop17/app-ideas
 * collect projects:
     * dig into Javascript Grammar book
