@@ -1,10 +1,26 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Rika
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+* set up github & logbook & twitter
+* mini-code when does the challenge finish?
+* check out https://github.com/florinpop17/app-ideas
+* collect projects:
+    * dig into Javascript Grammar book
+    * Vue.js introductory course
+    * DevOps course
+    * finish Smart Home tutorial
+    * search an Open Source project and contribute
+    * revamp ueberdiespree.de
+    * https://www.frontendmentor.io/
+    * build a Go Backend
+    * build an Electron App
+    * take tutorials on nodeschool
+    * dig into typescript
+    * Junior to Senior Udemy Course https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/
+    * what to do with Firebase?
 
 ### R1D2
