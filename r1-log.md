@@ -24,3 +24,8 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
     * what to do with Firebase?
 
 ### R1D2
+Reworked my #nodejs mini server app to a #go #golang powered app and realised how much I got used to javascript's lack of typesafety. Took me some time! (Never worked with Go before)
+
+* go run start.go
+
+### R1D3
