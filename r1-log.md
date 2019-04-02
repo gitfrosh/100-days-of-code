@@ -29,3 +29,4 @@ Reworked my #nodejs mini server app to a #go #golang powered app and realised ho
 * go run start.go
 
 ### R1D3
+My #go #golang backend is now able to serve html and css files. Decided to quit working on the app for now, started an advanced #webdev tutorial by @AndreiNeagoie and already had some eureka moments regarding #ssh and #rsa. https://www.udemy.com/share/1009OgAEcccV9TR3g=/
