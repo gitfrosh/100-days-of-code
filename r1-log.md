@@ -30,3 +30,6 @@ Reworked my #nodejs mini server app to a #go #golang powered app and realised ho
 
 ### R1D3
 My #go #golang backend is now able to serve html and css files. Decided to quit working on the app for now, started an advanced #webdev tutorial by @AndreiNeagoie and already had some eureka moments regarding #ssh and #rsa. https://www.udemy.com/share/1009OgAEcccV9TR3g=/
+
+### R1D4
+No coding today but completed the 1st performance optimization part of the advanced #webdev course I started yesterday. Tomorrow I will dive into #React again after a few months of abstinence.
