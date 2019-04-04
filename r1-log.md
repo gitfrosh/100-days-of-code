@@ -33,3 +33,7 @@ My #go #golang backend is now able to serve html and css files. Decided to quit 
 
 ### R1D4
 No coding today but completed the 1st performance optimization part of the advanced #webdev course I started yesterday. Tomorrow I will dive into #React again after a few months of abstinence.
+
+### R1D5
+R1D5 #100DaysOfCode: Got into #redux today and learned that it is based on #flux pattern and can be used in other UI layers such as #vuejs! (I like #MobX simplicity though 😇) Will have a look into Context API & Hooks based on 
+@dceddia articles tomorrow. https://daveceddia.com/archives/
