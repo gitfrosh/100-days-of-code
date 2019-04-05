@@ -37,3 +37,8 @@ No coding today but completed the 1st performance optimization part of the advan
 ### R1D5
 R1D5 #100DaysOfCode: Got into #redux today and learned that it is based on #flux pattern and can be used in other UI layers such as #vuejs! (I like #MobX simplicity though 😇) Will have a look into Context API & Hooks based on 
 @dceddia articles tomorrow. https://daveceddia.com/archives/
+
+### R1D6
+R1D6 #100DaysOfCode: Rewrote my app again and substituted #redux with state management based on React's context API and Hooks. Works like charm following this tutorial by @develop_simply https://link.medium.com/aLzWYbn2qV
+
+I now have the same mini app running on MobX, Redux and Context API for comparison. Might add a new Github repository tomorrow. :)
