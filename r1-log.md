@@ -35,13 +35,26 @@ My #go #golang backend is now able to serve html and css files. Decided to quit 
 No coding today but completed the 1st performance optimization part of the advanced #webdev course I started yesterday. Tomorrow I will dive into #React again after a few months of abstinence.
 
 ### R1D5
-R1D5 #100DaysOfCode: Got into #redux today and learned that it is based on #flux pattern and can be used in other UI layers such as #vuejs! (I like #MobX simplicity though 😇) Will have a look into Context API & Hooks based on 
+Got into #redux today and learned that it is based on #flux pattern and can be used in other UI layers such as #vuejs! (I like #MobX simplicity though 😇) Will have a look into Context API & Hooks based on 
 @dceddia articles tomorrow. https://daveceddia.com/archives/
 
 ### R1D6
-R1D6 #100DaysOfCode: Rewrote my app again and substituted #redux with state management based on React's context API and Hooks. Works like charm following this tutorial by @develop_simply https://link.medium.com/aLzWYbn2qV
+Rewrote my app again and substituted #redux with state management based on React's context API and Hooks. Works like charm following this tutorial by @develop_simply https://link.medium.com/aLzWYbn2qV
 
 I now have the same mini app running on MobX, Redux and Context API for comparison. Might add a new Github repository tomorrow. :)
 
 ### R1D7
-R1D7 #100DaysOfCode: Took a small (but highly overdue) journey into #javascript bundlers like #webpack and set up an example mini app. Realised that it is never good to just use things without at least understanding them in a basic way. Will have a look into #parcel and #rollup later.
+Took a small (but highly overdue) journey into #javascript bundlers like #webpack and set up an example mini app. Realised that it is never good to just use things without at least understanding them in a basic way. Will have a look into #parcel and #rollup later.
+
+### R1D8
+Working on the advanced #webdev course frontend performance optimization chapter.
+webpagetest.org
+
+### R1D9
+Working further on the advanced #webdev course frontend performance optimization chapter.
+- Code splitting with asnyc components
+React components rerender when their parents update (but this is not always necessary and a performance decreaser)
+- PureComponent: only updates when received props change (but warning: it's not a deep comparison and will not properly work with complicated data props)
+- shouldComponentUpdate: can be used alternatively, but is a more safe way
+- why-did-you-update library!
+- check React app performance: http://localhost:3000/?react_perf
