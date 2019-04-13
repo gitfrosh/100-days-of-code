@@ -97,3 +97,5 @@ Resources:
 - Enzyme (esp. for React)
 
 ### R1D14
+
+ - React components are pure functions and are easily tested with unit tests
