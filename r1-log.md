@@ -22,6 +22,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
     * dig into typescript
     * Junior to Senior Udemy Course https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/
     * what to do with Firebase?
+    * finish IF course
 
 ### R1D2
 Reworked my #nodejs mini server app to a #go #golang powered app and realised how much I got used to javascript's lack of typesafety. Took me some time! (Never worked with Go before)
@@ -48,7 +49,14 @@ Took a small (but highly overdue) journey into #javascript bundlers like #webpac
 
 ### R1D8
 Working on the advanced #webdev course frontend performance optimization chapter.
+
+Resources:
 webpagetest.org
+
+React CSS Styling:
+- glamorous
+- styled components
+- css modules
 
 ### R1D9
 Working further on the advanced #webdev course frontend performance optimization chapter.
@@ -58,3 +66,34 @@ React components rerender when their parents update (but this is not always nece
 - shouldComponentUpdate: can be used alternatively, but is a more safe way
 - why-did-you-update library!
 - check React app performance: http://localhost:3000/?react_perf
+
+### R1D10
+Covered an important topic today: Progressive Web Apps and their pros and cons. Also I started working on a relaunch of my website and blog, including a move to @digitalocean!
+Resources:
+https://whatwebcando.today/
+Lighthouse Plugin
+https://www.pwabuilder.com/
+cloudflare hoster
+https://realfavicongenerator.net/
+
+### R1D11
+I tortured myself with webserver (#apache) configuration today, while moving domains and webspaces around providers and still not everything works properly. I'm now following an old programmer's rule: Stop when stuck and continue later (in my case tomorrow morning) with a fresh mind. 
+
+### R1D12
+Finalized move of my website and blog to digitalocean.com!
+
+### R1D13
+Set up Let's Encrypt SSL Certificate, PWA installation for blog and website; digged into Testing and Behaviour Driven Development
+
+Resources:
+- Jasmine
+- Jest (must popular!)
+- Mocha
+- Chai (language chains)
+- Karma.js (only test runner)
+- Sinon.js (mock, spies and stubs (e.g. make fake server))
+- Istanbul (test coverage and where missing tests are)
+- Tape, Ava
+- Enzyme (esp. for React)
+
+### R1D14
