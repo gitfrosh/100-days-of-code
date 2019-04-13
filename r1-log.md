@@ -97,5 +97,8 @@ Resources:
 - Enzyme (esp. for React)
 
 ### R1D14
+R1D014 #100DaysOfCode: Today I started working on a topic I've been neglecting for a long time: Testing in (#frontend) web development. 🙄 I started with some insights in #jest. Hope to find out more about the "when, what and whys" instead of the "how" to test!
 
  - React components are pure functions and are easily tested with unit tests
+ - integration tests test connections between components (e.g. API calls)
+ - automation tests (= end-to-end-tests) are UI user tests (Nighwatch, WebDriverIO, TestCafe, CyPress) --> very expensive to implement
