@@ -102,3 +102,8 @@ R1D014 #100DaysOfCode: Today I started working on a topic I've been neglecting f
  - React components are pure functions and are easily tested with unit tests
  - integration tests test connections between components (e.g. API calls)
  - automation tests (= end-to-end-tests) are UI user tests (Nighwatch, WebDriverIO, TestCafe, CyPress) --> very expensive to implement
+
+ ### R1D15
+R1D15 #100DaysOfCode: More #jest #javascript testing today including async tests, assertions and mockups. Tomorrow will be about testing #react with #enzyme.
+Resources:
+ https://github.com/sapegin/jest-cheat-sheet
