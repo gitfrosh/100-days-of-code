@@ -107,3 +107,29 @@ R1D014 #100DaysOfCode: Today I started working on a topic I've been neglecting f
 R1D15 #100DaysOfCode: More #jest #javascript testing today including async tests, assertions and mockups. Tomorrow will be about testing #react with #enzyme.
 Resources:
  https://github.com/sapegin/jest-cheat-sheet
+
+### R1D16
+R1D16 #100DaysOfCode: Didn't have too much fun with more testing on #react today so I will move on and start with learning #typescript from tomorrow.
+
+Enzyme:
+  - shallow: renders the component without child components
+  - mount: full DOM rendering
+  - render: renders to static HTML (cheerio lib)
+  yarn test -- --coverage
+
+### R1D17
+  - dynamic (Python, Ruby, JS, PHP, ..)/static (C, C#, Java, Scala) programming languages
+  - static types must be declared!
+    var a = 100; vs. int a;
+
+  - strong/weak programming languages (type coercion is the process of converting value from one type to another -> strong langs don't do that )
+
+  - Flow is compiled to JS with Babel, which compiles to ES5; ReasonML, Elm, Typescript have their own compiler
+
+### R1D18
+My baby girl took much of my attention the last two days, so progress on working on #typescript was slow but still steady. #100DaysOfCode 💪
+
+init TypeScript project: tsc --init
+compile .ts file to .js: tsc app.ts (--watch)
+
+### R1D19
