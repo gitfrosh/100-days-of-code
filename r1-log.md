@@ -133,3 +133,9 @@ init TypeScript project: tsc --init
 compile .ts file to .js: tsc app.ts (--watch)
 
 ### R1D19
+R1D19 #100DaysOfCode: Started working on #typescript in #react and did not feel very comfortable with it. I should probably keep on learning tomorrow.
+
+Resources:
+- definitelytyped.org (add ts to js-based 3rd party libraries like react)
+- https://facebook.github.io/create-react-app/docs/adding-typescript
+- npx create-react-app my-app --typescript
