@@ -139,3 +139,11 @@ Resources:
 - definitelytyped.org (add ts to js-based 3rd party libraries like react)
 - https://facebook.github.io/create-react-app/docs/adding-typescript
 - npx create-react-app my-app --typescript
+
+### R1D20
+No coding today.
+
+### R1D21
+R1D21 #100DaysOfCode: No "real" coding today but reading some #webdev newsletters and writing which resulted in two new short tutorials about #nodejs & #expressjs APIs for #postgresql on my weblog.
+Resources
+- https://frontendmasters.com/books/front-end-handbook/2019/
