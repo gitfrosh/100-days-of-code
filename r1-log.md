@@ -23,6 +23,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
     * Junior to Senior Udemy Course https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/
     * what to do with Firebase?
     * finish IF course
+    * Web Components?!
 
 ### R1D2
 Reworked my #nodejs mini server app to a #go #golang powered app and realised how much I got used to javascript's lack of typesafety. Took me some time! (Never worked with Go before)
@@ -147,3 +148,14 @@ No coding today.
 R1D21 #100DaysOfCode: No "real" coding today but reading some #webdev newsletters and writing which resulted in two new short tutorials about #nodejs & #expressjs APIs for #postgresql on my weblog.
 Resources
 - https://frontendmasters.com/books/front-end-handbook/2019/
+
+### R1D22
+R1D22 #100DaysOfCode: Started working on server-side rendered web apps, which has been on my bucket list for months! Started my first Next.js project stumbled open @ReactStaticJS and @nestframework.. much to learn apparently!
+
+Libraries like react-snapshot can be added to your project, used to generate HTML copies of your application pages and save them to a specified folder. You can then deploy this folder alongside your JS bundle. This way, the HTML will be served along with the response allowing your site to be accessible by users with JavaScript disabled, search engines etc.
+
+Resources
+- Gatsby.js
+- Next.js
+- ReactStaticJs
+- Nest.js
