@@ -159,3 +159,8 @@ Resources
 - Next.js
 - ReactStaticJs
 - Nest.js
+
+### R1D23
+R1D23 #100DaysOfCode: More coding on server-side rendered apps today! Read about #CRA vs. #Nextjs vs. #Gatsbyjs and still need to figure out which framework is great for specific use-cases. 
+
+https://coffeencoding.com/cra-vs-next-js-vs-gatsby/
