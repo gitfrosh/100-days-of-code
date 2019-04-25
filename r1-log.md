@@ -55,6 +55,7 @@ Resources:
 webpagetest.org
 
 React CSS Styling:
+- tailwind?
 - glamorous
 - styled components
 - css modules
@@ -164,3 +165,14 @@ Resources
 R1D23 #100DaysOfCode: More coding on server-side rendered apps today! Read about #CRA vs. #Nextjs vs. #Gatsbyjs and still need to figure out which framework is great for specific use-cases. 
 
 https://coffeencoding.com/cra-vs-next-js-vs-gatsby/
+
+### R1D24
+R1D24 #100DaysOfCode: So I'm starting to convert my vanilla #HTML #CSS #JavaScript portfolio to a #Gatsbyjs powered #SSR website and I'm not yet sure if it is worth the massive boilerplate code that is added. Like the overall configuration experience though!
+
+#webdev #frontend #reactjs #coding #programming #womenwhocode
+
+### R1D25
+R1D25 #100DaysOfCode: WIP with Gatsby.js.
+
+### R1D26 
+R1D26 #100DaysOfCode: Almost done with the mini relaunch of my website with Gatsby.js. 🧐 There are still some responsiveness issues to solve and I should have a check with @____lighthouse. First thing tomorrow morning!
