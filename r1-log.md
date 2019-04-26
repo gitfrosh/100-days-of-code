@@ -176,3 +176,6 @@ R1D25 #100DaysOfCode: WIP with Gatsby.js.
 
 ### R1D26 
 R1D26 #100DaysOfCode: Almost done with the mini relaunch of my website with Gatsby.js. 🧐 There are still some responsiveness issues to solve and I should have a check with @____lighthouse. First thing tomorrow morning!
+
+### R1D27
+R1D27 #100DaysOfCode: I'm done rebuilding my website with @gatsbyjs and now it's time for some ice-cream. 🙂
