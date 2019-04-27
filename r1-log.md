@@ -179,3 +179,9 @@ R1D26 #100DaysOfCode: Almost done with the mini relaunch of my website with Gats
 
 ### R1D27
 R1D27 #100DaysOfCode: I'm done rebuilding my website with @gatsbyjs and now it's time for some ice-cream. 🙂
+
+### R1D28
+R1D28 #100DaysOfCode: Super excited to start a whole new chapter today: Writing an app with @electronjs and starting with the #react boilerplate. Maybe I test out the @hapijs framework as a backend service right away. 
+"Track your mood!"
+
+### R1D29
