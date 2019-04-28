@@ -185,3 +185,4 @@ R1D28 #100DaysOfCode: Super excited to start a whole new chapter today: Writing 
 "Track your mood!"
 
 ### R1D29
+R1D29 #100DaysOfCode: I don't like it when the setup of my tech stack lasts so long I almost lose interest in actual coding 😬 well, at least I'm done now starting my @electronjs project with Next.js, styled-components and UI library.
