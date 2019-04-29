@@ -186,3 +186,6 @@ R1D28 #100DaysOfCode: Super excited to start a whole new chapter today: Writing 
 
 ### R1D29
 R1D29 #100DaysOfCode: I don't like it when the setup of my tech stack lasts so long I almost lose interest in actual coding 😬 well, at least I'm done now starting my @electronjs project with Next.js, styled-components and UI library.
+
+### R1D30
+R1D30 #100DaysOfCode: Anyone feeling nostalgic tonight? 💙 My fun @electronjs project looks like a Windows 95 software and I think it's adorable. 
