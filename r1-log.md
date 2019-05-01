@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - Rika
+# #100DaysOfCode Log - Round 1
 
 The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
 
@@ -14,16 +14,17 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
     * DevOps course
     * finish Smart Home tutorial
     * search an Open Source project and contribute
-    * revamp ueberdiespree.de
+    * revamp ueberdiespree.de ✔
     * https://www.frontendmentor.io/
-    * build a Go Backend
+    * build a Go Backend ✔
     * build an Electron App
     * take tutorials on nodeschool
-    * dig into typescript
+    * dig into typescript ✔
     * Junior to Senior Udemy Course https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/
     * what to do with Firebase?
     * finish IF course
     * Web Components?!
+    * Twitter Bot https://www.codewall.co.uk/twitter-bot-tutorial-retweet-nodejs/?utm_source=CWTwitter&utm_medium=social
 
 ### R1D2
 Reworked my #nodejs mini server app to a #go #golang powered app and realised how much I got used to javascript's lack of typesafety. Took me some time! (Never worked with Go before)
@@ -189,3 +190,11 @@ R1D29 #100DaysOfCode: I don't like it when the setup of my tech stack lasts so l
 
 ### R1D30
 R1D30 #100DaysOfCode: Anyone feeling nostalgic tonight? 💙 My fun @electronjs project looks like a Windows 95 software and I think it's adorable. 
+
+### R1D31
+More coding on @electronjs app.
+
+### R1D32
+R1D32 #100DaysOfCode: I finished my Node.js API powered by Hapi.js (not Express.js this time), CRUD actions and database connection today. I love the simplicity of lowdb for experimenting and fast prototyping.
+
+Check it out if you don't know it yet: https://github.com/typicode/lowdb
