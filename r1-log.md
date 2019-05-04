@@ -5,8 +5,8 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
 ## Log
 
 ### R1D1 
-* set up github (https://github.com/gitfrosh/100-days-of-code-projects) & logbook & twitter
-* mini-code "when does the challenge finish?" (https://github.com/gitfrosh/100-days-of-code-projects/tree/master/timer)
+* set up github (https://github.com/gitfrosh/100-days-of-code-projects) & logbook & twitter ✔
+* mini-code "when does the challenge finish?" (https://github.com/gitfrosh/100-days-of-code-projects/tree/master/timer) ✔
 * check out https://github.com/florinpop17/app-ideas
 * collect projects:
     * dig into Javascript Grammar book
@@ -17,7 +17,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
     * revamp ueberdiespree.de ✔
     * https://www.frontendmentor.io/
     * build a Go Backend ✔
-    * build an Electron App
+    * build an Electron App ✔
     * take tutorials on nodeschool
     * dig into typescript ✔
     * Junior to Senior Udemy Course https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/
@@ -25,6 +25,9 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
     * finish IF course
     * Web Components?!
     * Twitter Bot https://www.codewall.co.uk/twitter-bot-tutorial-retweet-nodejs/?utm_source=CWTwitter&utm_medium=social
+    * SSR: blog post comparing Gatsby.js, Next.js, Nest Framework, ReactStatic.js
+    * React CSS Styling: blog post comparing "normal" CSS style sheets, inline CSS styling, CSS in JS styling (glamorous, styled components,emotion,..) css modules
+    * Svelte.js
 
 ### R1D2
 Reworked my #nodejs mini server app to a #go #golang powered app and realised how much I got used to javascript's lack of typesafety. Took me some time! (Never worked with Go before)
@@ -198,3 +201,23 @@ More coding on @electronjs app.
 R1D32 #100DaysOfCode: I finished my Node.js API powered by Hapi.js (not Express.js this time), CRUD actions and database connection today. I love the simplicity of lowdb for experimenting and fast prototyping.
 
 Check it out if you don't know it yet: https://github.com/typicode/lowdb
+
+### R1D33
+R1D33 #100DaysOfCode: Okay, back to the serious stuff now after I have finished my @electronjs daily mood tracker fun app today ((link: https://github.com/gitfrosh/track-ur-mood) github.com/gitfrosh/track…). 
+😌 #electronjs #nextjs #hapijs #windows95 #react
+
+Security Resources
+- Knex.js or other ORMS
+- nsp check, snyk test // check 3rd party libs
+- logging; winston, morgan
+
+### R1D34
+
+More Security Resources
+- Set Content-Security-Policy
+- csurf: more security for cookies
+- https://www.hacksplaining.com/
+
+### R1D35
+Wow, time moves fast during the #100DaysOfCode and my to-do list is still long covering topics like server-side rendering, web components and React styling libs. 
+Also I'm still working on @andreineagoie|s #webdev course on #udemy and @svelte keeps popping up everywhere lately..
