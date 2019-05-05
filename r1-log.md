@@ -221,3 +221,6 @@ More Security Resources
 ### R1D35
 Wow, time moves fast during the #100DaysOfCode and my to-do list is still long covering topics like server-side rendering, web components and React styling libs. 
 Also I'm still working on @andreineagoie|s #webdev course on #udemy and @svelte keeps popping up everywhere lately..
+
+### R1D36
+R1D36 #100DaysOfCode: Unfortunately, only minimal coding today: Read about @svelte and set up the sapper example app: https://github.com/sveltejs/sapper-template. Tomorrow I'll keep working on it.
