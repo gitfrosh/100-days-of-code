@@ -224,3 +224,6 @@ Also I'm still working on @andreineagoie|s #webdev course on #udemy and @svelte 
 
 ### R1D36
 R1D36 #100DaysOfCode: Unfortunately, only minimal coding today: Read about @svelte and set up the sapper example app: https://github.com/sveltejs/sapper-template. Tomorrow I'll keep working on it.
+
+### R1D37
+R1D37 #100DaysOfCode: I started a fun project with @svelte today, played around with some open APIs and even tried out some #python web scraping. Will deploy tomorrow :)
