@@ -227,3 +227,9 @@ R1D36 #100DaysOfCode: Unfortunately, only minimal coding today: Read about @svel
 
 ### R1D37
 R1D37 #100DaysOfCode: I started a fun project with @svelte today, played around with some open APIs and even tried out some #python web scraping. Will deploy tomorrow :)
+
+### R1D38
+R1D38 #100DaysOfCode: Took me a while, but now it's up and running: My >> false quotes generator << that missmatches mostly Simpsons' quotes to famous people. Have fun! :)
+For the project I tried out @svelte and sapper with a #nodejs polka backend.
+
+### R1D39
