@@ -27,7 +27,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
     * Twitter Bot https://www.codewall.co.uk/twitter-bot-tutorial-retweet-nodejs/?utm_source=CWTwitter&utm_medium=social
     * SSR: blog post comparing Gatsby.js, Next.js, Nest Framework, ReactStatic.js
     * React CSS Styling: blog post comparing "normal" CSS style sheets, inline CSS styling, CSS in JS styling (glamorous, styled components,emotion,..) css modules
-    * Svelte.js
+    * Svelte.js / Sapper ✔
 
 ### R1D2
 Reworked my #nodejs mini server app to a #go #golang powered app and realised how much I got used to javascript's lack of typesafety. Took me some time! (Never worked with Go before)
@@ -233,3 +233,4 @@ R1D38 #100DaysOfCode: Took me a while, but now it's up and running: My >> false 
 For the project I tried out @svelte and sapper with a #nodejs polka backend.
 
 ### R1D39
+R1D39 #100DaysOfCode: A day without coding but at least reading about web security and code analysis. Tomorrow I will be starting learning about #docker and #kubernetes. Looking forward!!
