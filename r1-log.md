@@ -28,6 +28,8 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
     * SSR: blog post comparing Gatsby.js, Next.js, Nest Framework, ReactStatic.js
     * React CSS Styling: blog post comparing "normal" CSS style sheets, inline CSS styling, CSS in JS styling (glamorous, styled components,emotion,..) css modules
     * Svelte.js / Sapper ✔
+    * build a LOTR api with Kaggle data on Flask & Vue.js
+    * React Hooks
 
 ### R1D2
 Reworked my #nodejs mini server app to a #go #golang powered app and realised how much I got used to javascript's lack of typesafety. Took me some time! (Never worked with Go before)
@@ -209,7 +211,7 @@ R1D33 #100DaysOfCode: Okay, back to the serious stuff now after I have finished 
 Security Resources
 - Knex.js or other ORMS
 - nsp check, snyk test // check 3rd party libs
-- logging; winston, morgan
+- logging; winston, morgan, pino, roarr
 
 ### R1D34
 
@@ -234,3 +236,34 @@ For the project I tried out @svelte and sapper with a #nodejs polka backend.
 
 ### R1D39
 R1D39 #100DaysOfCode: A day without coding but at least reading about web security and code analysis. Tomorrow I will be starting learning about #docker and #kubernetes. Looking forward!!
+
+### R1D40
+No coding today.
+
+### R1D41
+R1D41 #100DaysOfCode: Hurray, today I created my first Dockerfile! I only finished a small introductory course about #devops and might continue tomorrow (if I get not distracted by a new side project idea I came upt with today)
+
+- Docker can duplicate containers when app must scale
+DOCKER
+- touch Dockerfile
+- docker build -t superawesomecontainer .
+- docker run -it superawesomecontainer
+- docker run superawesomecontainer (& go inside container)
+- docker run -it -d superawesomecontainer (run in background)
+- docker ps (show all running containers)
+- docker exec -it <hash> bash (go inside container)
+- docker stop <hash>
+- Dockerfile: FROM, WORKDIR, COPY, RUN, CMD
+- port forwarding/binding: expose inner-container port to actual (host) machine:
+  - docker run -it -p 3000:3000 superawesomecontainer
+DOCKER-COMPOSE
+- touch docker-compose.yml
+- sudo docker-compose build (you could "compose" just one service and build it from existing Dockerfile)
+- rebuild everytime .yml changes
+- sudo docker-compose run <service-name>
+- sudo docker-compose down (kill everything)
+- sudo docker-compose up --build (run all services)
+- sudo docker-compose exec smart-brain-api bash (after up -d in background enter bash)
+
+Resources
+- hub.docker
