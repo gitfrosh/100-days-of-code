@@ -4,6 +4,8 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
 
 ## Log
 
+#girlswhocode #girlsintech #codergirl #peoplewhocode #codeforlife #codinglife #codingforweb 
+
 ### R1D1 
 * set up github (https://github.com/gitfrosh/100-days-of-code-projects) & logbook & twitter ✔
 * mini-code "when does the challenge finish?" (https://github.com/gitfrosh/100-days-of-code-projects/tree/master/timer) ✔
@@ -267,3 +269,30 @@ DOCKER-COMPOSE
 
 Resources
 - hub.docker
+
+### R1D42
+No coding today.
+
+### R1D43
+R1D43 #100DaysOfCode: I finally catched up on authentication methods and read about JSON Web Tokens, and cookies. Oh and set up my first redis server for session management.
+
+REDIS
+- redis-cli
+- redis-server
+- commands: SET, GET, EXISTS, DEL, EXPIRE session 10, INCRBY counter 33, DECR counter (default is 1), MSET (set multiple values), MGET
+- hashes: HMSET user id 45 name "John", HGET user id, HGETALL
+- lists: LPUSH ourlist 10, RPUSH/LPUSH ourlist "hello", LRANGE ourlist 0 1 (show content), RDROP, LPOP/RPOP
+- sets (no duplicate values): SADD ourset 1 2 3 4 5, SMEMBERS ourset (show content), SISMEMBER ourset 5
+- sorted sets: ZADD team 1 "Wizards", ZRANK
+
+AUTHENTICATION
+* COOKIE-BASED
+- user sends username & password to server, server checks and answers with cookie (in header: session: "randomstring123445"), identifies browser which saves it in internal datastore
+- everytime a user returns the browser asks for the same cookie and server authenticates if cookie is the same
+- on logout the session will be destroyed
+* TOKEN-BASED (JWT is most popular)
+- user sends username & password to server, server checks and answers with token (in header: token: "randomstring123445"), identifies browser which saves it in internal datastore and resends it to server with every request, server verifies it without!! database just with method
+- JWT can even store information like user ID, ..
+- on logout the token will be destroyed
+- token can be used throughout different apis
+- can server mobile/browser
