@@ -296,3 +296,6 @@ AUTHENTICATION
 - on logout the token will be destroyed
 - token can be used throughout different apis
 - can server mobile/browser
+
+### R1D44
+R1D44 #100DaysOfCode: Today was intense: My first try using #Swagger and #Node.js #Hapi to generate a #RESTful API out of a huge dataset. Good Night for now!
