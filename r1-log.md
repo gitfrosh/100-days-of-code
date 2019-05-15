@@ -299,3 +299,11 @@ AUTHENTICATION
 
 ### R1D44
 R1D44 #100DaysOfCode: Today was intense: My first try using #Swagger and #Node.js #Hapi to generate a #RESTful API out of a huge dataset. Good Night for now!
+
+### R1D45
+R1D45 #100DaysOfCode: Playing around with my biiig #data set and #python's #pandas library .. actually having fun because things just work?! 
+#webdev #data #DataScience #DataAnalytics 
+(link: http://pandas.pydata.org) pandas.pydata.org
+
+### R1D46
+R1D46 #100DaysOfCode: Finished working on my database and started a new frontend based on #Nuxt.js. Oh I think I need to slow down a bit when learning new stuff to avoid my sloppyness.
