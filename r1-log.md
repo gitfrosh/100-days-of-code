@@ -307,3 +307,19 @@ R1D45 #100DaysOfCode: Playing around with my biiig #data set and #python's #pand
 
 ### R1D46
 R1D46 #100DaysOfCode: Finished working on my database and started a new frontend based on #Nuxt.js. Oh I think I need to slow down a bit when learning new stuff to avoid my sloppyness.
+
+### R1D47
+No coding today.
+
+### R1D48
+R1D48 #100DaysofCode: Struggled a bit with my #Hapi server-side rendering #React app but got everything working in the end. 
+👊 Next days will be about #css styling, typography and beautifying. 
+#ssr #Javascript #codinglife #coders #webdev
+
+### R1D49
+No coding today.
+
+### R1D50
+Hurray, I finished the first half of my #100DaysofCode challenge and I loved it so far!! Connecting to other coders on twitter makes it so very inspiring and motivating, I already learned & built so much I'm totally looking forward towards the 2nd half!
+#womenwhocode #coderslife
+
