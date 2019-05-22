@@ -32,6 +32,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
     * Svelte.js / Sapper ✔
     * build a LOTR api with Kaggle data on Flask & Vue.js
     * React Hooks
+    * serverless apps
 
 ### R1D2
 Reworked my #nodejs mini server app to a #go #golang powered app and realised how much I got used to javascript's lack of typesafety. Took me some time! (Never worked with Go before)
@@ -323,3 +324,15 @@ No coding today.
 Hurray, I finished the first half of my #100DaysofCode challenge and I loved it so far!! Connecting to other coders on twitter makes it so very inspiring and motivating, I already learned & built so much I'm totally looking forward towards the 2nd half!
 #womenwhocode #coderslife
 
+### R1D51
+R1D51 #100DaysOfCode: Sometimes you just *know* that you already solved that particular tiny problem sometime in the past but you just can't remember how and it's driving you insane.
+
+Will continue working on my #hapi authorization issues tomorrow...
+#javascript #react #coding
+
+### R1D52
+R1D52 #100DaysOfCode: So I fixed some routing issues in my #NodeJS #Hapi backend and there's no way around #JSON Web Tokens tomorrow. Is there anybody actually enjoying authorization implementation? 
+😆 #coderslife
+
+### R1D53
+R1D53 #100DaysOfCode: Set up my JSON Web Tokens authorization logic today, login and logout for my new web app. Went smoothly in the end thanks to this great #NodeJS #Hapi plugin: https://github.com/dwyl/hapi-auth-jwt2
