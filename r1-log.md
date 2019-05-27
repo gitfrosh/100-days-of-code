@@ -336,3 +336,18 @@ R1D52 #100DaysOfCode: So I fixed some routing issues in my #NodeJS #Hapi backend
 
 ### R1D53
 R1D53 #100DaysOfCode: Set up my JSON Web Tokens authorization logic today, login and logout for my new web app. Went smoothly in the end thanks to this great #NodeJS #Hapi plugin: https://github.com/dwyl/hapi-auth-jwt2
+
+### R1D54
+R1D54 #100DaysOfCode: So I implemented some cookie 
+🍪  handling and conditional #reactjs rendering today regarding my login / logout logic and I really need to read more about security best practices
+😬 (still not my favourite topic)
+#coderslife #womenwhocode
+
+### R1D55
+R1D55 #100DaysOfCode: Some frustrating debugging sessions today. 
+🙄  Over and out.
+
+### R1D56
+No coding today.
+
+### R1D57
