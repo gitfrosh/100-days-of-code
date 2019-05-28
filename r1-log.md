@@ -351,3 +351,9 @@ R1D55 #100DaysOfCode: Some frustrating debugging sessions today.
 No coding today.
 
 ### R1D57
+R1D57 #100DaysOfCode: Rebuilt my #React forms with Formik due to security reasons and enjoyed working with the library. (link: https://jaredpalmer.com/formik/) jaredpalmer.com/formik/ Tomorrow I have some #MongoDB #Mongoose tasks on my to-do list. #coderslife ⛳️
+
+### R1D58
+R1D58 #100DaysOfCode: My open #MongoDB issues were easily done and I wrote some documentation on my new #Hapi powered app. But honestly, my knowledge about server performance is poor especially when it comes to scaling and dealing with many requests. 
+
+### R1D59
