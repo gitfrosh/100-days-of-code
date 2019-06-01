@@ -357,3 +357,17 @@ R1D57 #100DaysOfCode: Rebuilt my #React forms with Formik due to security reason
 R1D58 #100DaysOfCode: My open #MongoDB issues were easily done and I wrote some documentation on my new #Hapi powered app. But honestly, my knowledge about server performance is poor especially when it comes to scaling and dealing with many requests. 
 
 ### R1D59
+No coding today.
+
+### R1D60
+R1D60 #100DaysOfCode: Procrastination is finally here! 
+😣  Minimal progress today and there is still lots of data cleaning to do. 
+I'm going on a short holiday tomorrow so even better excuses arrive. 
+#coderslife #womenintech #womenwhocode
+
+### R1D61
+No coding today.
+
+### R1D62
+At least minimal progress on my RESTful #Node.js #Hapi #SSR #React project. I must say the decision to build a server-side rendering solution mostly got me into troubles :D 
+Oh and I need to catch up with all the cool #coder's newsletters I receive. 
