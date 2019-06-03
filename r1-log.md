@@ -369,5 +369,16 @@ I'm going on a short holiday tomorrow so even better excuses arrive.
 No coding today.
 
 ### R1D62
-At least minimal progress on my RESTful #Node.js #Hapi #SSR #React project. I must say the decision to build a server-side rendering solution mostly got me into troubles :D 
+R1D62 #100DaysOfCode: At least minimal progress on my RESTful #Node.js #Hapi #SSR #React project. I must say the decision to build a server-side rendering solution mostly got me into troubles :D 
 Oh and I need to catch up with all the cool #coder's newsletters I receive. 
+
+### R1D63
+No coding today.
+
+### R1D64
+R1D64 #100DaysOfCode: Finally a productive day again, done some coding in the morning & evening and cleaned up my #MongoDB data mess. Also I introduced the awesome #dotenv lib in my project for managing environment variables.
+
+Good night, folks!
+
+
+### R1D65
