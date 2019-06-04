@@ -377,8 +377,9 @@ No coding today.
 
 ### R1D64
 R1D64 #100DaysOfCode: Finally a productive day again, done some coding in the morning & evening and cleaned up my #MongoDB data mess. Also I introduced the awesome #dotenv lib in my project for managing environment variables.
-
 Good night, folks!
 
-
 ### R1D65
+R1D65 #100DaysOfCode: My app is somewhat ready for deployment but I'd like to finish the CI/CD chapter of @AndreiNeagoie's advanced #webdev course first. I need to explore build pipelines and related topics - should be exciting!
+
+### R1D66
