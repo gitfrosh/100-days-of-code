@@ -383,3 +383,15 @@ Good night, folks!
 R1D65 #100DaysOfCode: My app is somewhat ready for deployment but I'd like to finish the CI/CD chapter of @AndreiNeagoie's advanced #webdev course first. I need to explore build pipelines and related topics - should be exciting!
 
 ### R1D66
+R1D66 #100DaysOfCode: Gosh, I'm so tired. Berlin's heat is making me dizzy. Almost no progress today 
+🐌 Happy coding to y'all!
+
+### R1D67
+No coding today.
+
+### R1D68
+R1D68 #100DaysOfCode: Oh well. 
+😳 Looks like some major accessibility issues to solve tomorrow! I again deployed a new app to @heroku though everybody seems to be rather excited about @Netlify
+ currently. 🤔
+
+ ### R1D69
