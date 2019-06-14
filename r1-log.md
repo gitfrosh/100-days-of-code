@@ -399,3 +399,11 @@ R1D68 #100DaysOfCode: Oh well.  Looks like some major accessibility issues to so
 
  ### R1D71
  R1D71 #100DaysOfCode: Freshed up my project and added some additional progressive web app features #pwa. This looks waaay better now:
+
+ ### R1D72
+ No coding today.
+
+ ### R1D73
+So I'm coding at the most beautiful working place since the start of my #100DaysOfCode challenge (the Northern German seaside) and it's a bit hard to keep track of my plans (though the wi-fi is fine).
+
+### RD1D74
