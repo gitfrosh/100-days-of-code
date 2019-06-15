@@ -407,3 +407,6 @@ R1D68 #100DaysOfCode: Oh well.  Looks like some major accessibility issues to so
 So I'm coding at the most beautiful working place since the start of my #100DaysOfCode challenge (the Northern German seaside) and it's a bit hard to keep track of my plans (though the wi-fi is fine).
 
 ### RD1D74
+R1D74 #100DaysOfCode: Let me introduce my new finished fun project I have been building the last weeks: The Lord of the Rings API provides book, movie, character and quote data - powered by #ssr #react and #hapijs. 
+
+### R1D75
