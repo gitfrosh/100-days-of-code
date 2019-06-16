@@ -30,9 +30,12 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
     * SSR: blog post comparing Gatsby.js, Next.js, Nest Framework, ReactStatic.js
     * React CSS Styling: blog post comparing "normal" CSS style sheets, inline CSS styling, CSS in JS styling (glamorous, styled components,emotion,..) css modules
     * Svelte.js / Sapper ✔
-    * build a LOTR api with Kaggle data on Flask & Vue.js
+    * build a LOTR api with Kaggle data on ~~Flask & Vue.js~~ Node.js & SSR React
     * React Hooks
     * serverless apps
+    * AWS Lambda (https://www.youtube.com/watch?v=3CFN9bSVfqc#action=share)
+
+
 
 ### R1D2
 Reworked my #nodejs mini server app to a #go #golang powered app and realised how much I got used to javascript's lack of typesafety. Took me some time! (Never worked with Go before)
@@ -410,3 +413,6 @@ So I'm coding at the most beautiful working place since the start of my #100Days
 R1D74 #100DaysOfCode: Let me introduce my new finished fun project I have been building the last weeks: The Lord of the Rings API provides book, movie, character and quote data - powered by #ssr #react and #hapijs. 
 
 ### R1D75
+Wow, 3/4 of my #100DaysOfCode challenge are done today! I was not able to code every single day, but I liked my journey very much so far!  
+
+The last days will be probably mostly about building a twitter bot  & digging into serverless apps, AWS Lambda, React Hooks &  CSS Styling.
