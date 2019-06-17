@@ -416,3 +416,6 @@ R1D74 #100DaysOfCode: Let me introduce my new finished fun project I have been b
 Wow, 3/4 of my #100DaysOfCode challenge are done today! I was not able to code every single day, but I liked my journey very much so far!  
 
 The last days will be probably mostly about building a twitter bot  & digging into serverless apps, AWS Lambda, React Hooks &  CSS Styling.
+
+### R1D76
+For the 3rd time I will be giving an introductory workshop in web development for women at the #InformaticaFeminale @UniBremen this August - in German (Registration is open here: https://www.informatica-feminale.de/eng/). Every year, I have to edit the course material heavily because web development is moving so fast!
