@@ -419,3 +419,6 @@ The last days will be probably mostly about building a twitter bot  & digging in
 
 ### R1D76
 For the 3rd time I will be giving an introductory workshop in web development for women at the #InformaticaFeminale @UniBremen this August - in German (Registration is open here: https://www.informatica-feminale.de/eng/). Every year, I have to edit the course material heavily because web development is moving so fast!
+
+### R1D77
+R1D77 #100DaysOfCode: Sometimes it's the small things that is driving you mad, like adding a tiny @github corner logo onto your website. http://tholman.com/github-corners/
