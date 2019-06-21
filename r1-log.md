@@ -13,24 +13,23 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
 * collect projects:
     * dig into Javascript Grammar book
     * Vue.js introductory course
-    * DevOps course
+    * DevOps course ✔
     * finish Smart Home tutorial
     * search an Open Source project and contribute
     * revamp ueberdiespree.de ✔
-    * https://www.frontendmentor.io/
+    * https://www.frontendmentor.io/ ✔
     * build a Go Backend ✔
     * build an Electron App ✔
-    * take tutorials on nodeschool
     * dig into typescript ✔
     * Junior to Senior Udemy Course https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/
-    * what to do with Firebase?
+    * what to do with Firebase? ✔
     * finish IF course
     * Web Components?!
     * Twitter Bot https://www.codewall.co.uk/twitter-bot-tutorial-retweet-nodejs/?utm_source=CWTwitter&utm_medium=social
     * SSR: blog post comparing Gatsby.js, Next.js, Nest Framework, ReactStatic.js
     * React CSS Styling: blog post comparing "normal" CSS style sheets, inline CSS styling, CSS in JS styling (glamorous, styled components,emotion,..) css modules
     * Svelte.js / Sapper ✔
-    * build a LOTR api with Kaggle data on ~~Flask & Vue.js~~ Node.js & SSR React
+    * build a LOTR api with Kaggle data on ~~Flask & Vue.js~~ Node.js & SSR React ✔
     * React Hooks
     * serverless apps
     * AWS Lambda (https://www.youtube.com/watch?v=3CFN9bSVfqc#action=share)
@@ -422,3 +421,21 @@ For the 3rd time I will be giving an introductory workshop in web development fo
 
 ### R1D77
 R1D77 #100DaysOfCode: Sometimes it's the small things that is driving you mad, like adding a tiny @github corner logo onto your website. http://tholman.com/github-corners/
+
+### R1D78
+No coding today.
+
+### R1D79
+
+- notify me, when a new user registers on lotr api!
+AWS Services
+- EC2: bare metal machine, e.g. Linux machine with Node preinstalled
+- CloudFront: enhance distributions of static web files (like cdn / CloudFlare), html, css, js around the world
+- S3: Object Storage Service: access it with id, e.g. image, json, .. (5GB max)
+- Lambda: run single functions and scales: create a function through dashboard or serverless package.. 
+
+Serverless
+- npm install -g serverless
+- serverless create -t aws-nodejs
+- serverless invoke --function hello
+- serverless invoke local --function hello (simulate the function locally)
