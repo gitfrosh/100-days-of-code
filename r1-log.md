@@ -33,7 +33,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
   - build a LOTR api with Kaggle data on ~~Flask & Vue.js~~ Node.js & SSR React ✔
   - React Hooks
   - serverless apps
-  - AWS Lambda (https://www.youtube.com/watch?v=3CFN9bSVfqc#action=share)
+  - AWS Lambda (https://www.youtube.com/watch?v=3CFN9bSVfqc#action=share) ✔
 
 ### R1D2
 
