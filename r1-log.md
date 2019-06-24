@@ -10,7 +10,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
 
 - set up github (https://github.com/gitfrosh/100-days-of-code-projects) & logbook & twitter ✔
 - mini-code "when does the challenge finish?" (https://github.com/gitfrosh/100-days-of-code-projects/tree/master/timer) ✔
-- check out https://github.com/florinpop17/app-ideas
+- check out https://github.com/florinpop17/app-ideas ✔
 - collect projects:
   - dig into Javascript Grammar book
   - Vue.js introductory course
@@ -22,7 +22,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
   - build a Go Backend ✔
   - build an Electron App ✔
   - dig into typescript ✔
-  - Junior to Senior Udemy Course https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/
+  - Junior to Senior Udemy Course https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/ ✔
   - what to do with Firebase? ✔
   - finish IF course
   - Web Components?!
