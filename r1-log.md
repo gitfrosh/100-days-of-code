@@ -34,6 +34,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
   - React Hooks
   - serverless apps
   - AWS Lambda (https://www.youtube.com/watch?v=3CFN9bSVfqc#action=share) ✔
+  - create an npm package
 
 ### R1D2
 
@@ -577,5 +578,18 @@ Load Balancing
   - wrk2
 
 
-R1D82 #100DaysOfCode : A new week and a ton of things to learn about: cdn services like @Cloudflare
-, caching, load balancing and reverse proxy configs. I finally finished this superawesome @udemy course by @AndreiNeagoie
+R1D82 #100DaysOfCode : A new week and a ton of things to learn about: cdn services like @Cloudflare, caching, load balancing and reverse proxy configs. I finally finished this superawesome @udemy course by @AndreiNeagoie
+
+### R1D83
+
+R1D83 #100DaysOfCode: Maybe I'm late discovering this but "30 seconds of code" is a great resource for #javascript developers with hundreds of snippets that can be of use in a wide range of situations.💡
+
+### R1D84
+
+OMG. Finally a tool for really lazy developers (like me): Generate a superpretty README file in just seconds: https://github.com/kefranabg/readme-md-generator … #coding #webdev #webdesign
+
+### R1D85
+
+R1D85 #100DaysOfCode: This was fun! I finished the friendly fem tech bot that retweets topics with hashtags like #girlswhocode #womenintech, and others. Follow @femtech_ for news from the community. I wrote a tutorial for the Twitter bot: https://rike.dev/2019/06/26/how-to-build-a-twitter-bot-with-node-js-fast
+
+### R1D86
