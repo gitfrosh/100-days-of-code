@@ -593,3 +593,8 @@ OMG. Finally a tool for really lazy developers (like me): Generate a superpretty
 R1D85 #100DaysOfCode: This was fun! I finished the friendly fem tech bot that retweets topics with hashtags like #girlswhocode #womenintech, and others. Follow @femtech_ for news from the community. I wrote a tutorial for the Twitter bot: https://rike.dev/2019/06/26/how-to-build-a-twitter-bot-with-node-js-fast
 
 ### R1D86
+
+R1D86 #100DaysOfCode: Nerd alert again: I published my first npm package (just for the sake of it) that gives you a random movie quote from The Lord of the Rings. 💥 https://www.npmjs.com/package/random-lotr-movie-quote …
+
+### R1D87
+No coding today.
