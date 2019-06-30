@@ -598,3 +598,6 @@ R1D86 #100DaysOfCode: Nerd alert again: I published my first npm package (just f
 
 ### R1D87
 No coding today.
+
+### R1D88
+I'm lacking some fresh ideas about what to build next during the #100DaysOfCode challenge so I'm reading @js_tut|s #JavaScript Grammar book http://javascriptgrammar.com/get while melting away in Berlin's heat.
