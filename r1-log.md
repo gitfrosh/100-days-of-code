@@ -13,10 +13,9 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
 - check out https://github.com/florinpop17/app-ideas ✔
 - collect projects:
   - dig into Javascript Grammar book
-  - Vue.js introductory course
   - DevOps course ✔
   - finish Smart Home tutorial
-  - search an Open Source project and contribute
+  - search an Open Source project and contribute ✔
   - revamp ueberdiespree.de ✔
   - https://www.frontendmentor.io/ ✔
   - build a Go Backend ✔
@@ -27,14 +26,13 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
   - finish IF course
   - Web Components?!
   - Twitter Bot https://www.codewall.co.uk/twitter-bot-tutorial-retweet-nodejs/?utm_source=CWTwitter&utm_medium=social
-  - SSR: blog post comparing Gatsby.js, Next.js, Nest Framework, ReactStatic.js
   - React CSS Styling: blog post comparing "normal" CSS style sheets, inline CSS styling, CSS in JS styling (glamorous, styled components,emotion,..) css modules
   - Svelte.js / Sapper ✔
   - build a LOTR api with Kaggle data on ~~Flask & Vue.js~~ Node.js & SSR React ✔
   - React Hooks
-  - serverless apps
+  - serverless apps ✔
   - AWS Lambda (https://www.youtube.com/watch?v=3CFN9bSVfqc#action=share) ✔
-  - create an npm package
+  - create an npm package ✔
 
 ### R1D2
 
@@ -597,7 +595,21 @@ R1D85 #100DaysOfCode: This was fun! I finished the friendly fem tech bot that re
 R1D86 #100DaysOfCode: Nerd alert again: I published my first npm package (just for the sake of it) that gives you a random movie quote from The Lord of the Rings. 💥 https://www.npmjs.com/package/random-lotr-movie-quote …
 
 ### R1D87
+
 No coding today.
 
 ### R1D88
+
 I'm lacking some fresh ideas about what to build next during the #100DaysOfCode challenge so I'm reading @js_tut|s #JavaScript Grammar book http://javascriptgrammar.com/get while melting away in Berlin's heat.
+
+### R1D89
+
+Well, after one week my bot @femtech_ has more followers than me. I feel betrayed. 😟 #100DaysOfCode #webdev #coderslife #womenintech #WomenWhoCode
+
+### R1D90
+
+No coding today.
+
+### R1D91
+
+The last days of my #100DaysOfCode challenge started and I feel that my efforts run out of steam a bit. I still didn't manage to study @reactjs hooks, so this will be my reading tomorrow: https://usehooks.com/ 🌈
