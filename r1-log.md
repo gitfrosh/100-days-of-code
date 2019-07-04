@@ -33,6 +33,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
   - serverless apps ✔
   - AWS Lambda (https://www.youtube.com/watch?v=3CFN9bSVfqc#action=share) ✔
   - create an npm package ✔
+  - blockchain visualization
 
 ### R1D2
 
@@ -613,3 +614,7 @@ No coding today.
 ### R1D91
 
 The last days of my #100DaysOfCode challenge started and I feel that my efforts run out of steam a bit. I still didn't manage to study @reactjs hooks, so this will be my reading tomorrow: https://usehooks.com/ 🌈
+
+### R1D92
+
+R1D92 #100DaysOfCode: I plan to build a #blockchain simulator the next days based on good old #React this time (maybe using some hooks). Should be fun. 🙃 #WomenWhoCode #womenintech #coding #frontend #webdevelopment
