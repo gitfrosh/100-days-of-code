@@ -618,3 +618,10 @@ The last days of my #100DaysOfCode challenge started and I feel that my efforts 
 ### R1D92
 
 R1D92 #100DaysOfCode: I plan to build a #blockchain simulator the next days based on good old #React this time (maybe using some hooks). Should be fun. 🙃 #WomenWhoCode #womenintech #coding #frontend #webdevelopment
+
+### R1D93
+
+R1D93 #100DaysOfCode:  old but gold: this short introductory #blockchain video, if you couldn't quite get your head around this technology until now: https://www.youtube.com/watch?v=_160oMzblY8
+
+### R1D94
+
