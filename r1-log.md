@@ -625,3 +625,15 @@ R1D93 #100DaysOfCode:  old but gold: this short introductory #blockchain video, 
 
 ### R1D94
 
+R1D94 #100DaysOfCode: My #Blockchain simulator is taking shape slowly. Like so often for a new project I spent a lot of time searching and switching through UI frameworks and decided for SemanticUI this time. (Yes, I could build my own CSS, but design is not my best skill. 😅)
+
+### R1D95
+
+R1D95 #100DaysOfCode: Again, only baby steps towards my final #React project but spent some time playing around with useless but fun UI components aaand React hooks. Good Night, coders! 🌟💫🌝
+
+### R1D96
+
+No coding today.
+
+### R1D97
+
