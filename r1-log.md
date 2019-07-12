@@ -637,3 +637,4 @@ No coding today.
 
 ### R1D97
 
+R1D96 #100DaysOfCode: I finally finished my little #blockchain simulator on https://gitfrosh.github.io/blockchain-simulator/ … 🥳 Originally I planned to add more features but I'm happy with the result nevertheless.. I now understand the basics of the #blockchaintechnology - which was the actual goal. 😌
