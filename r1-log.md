@@ -9,7 +9,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
 ### R1D1
 
 - set up github (https://github.com/gitfrosh/100-days-of-code-projects) & logbook & twitter ✔
-- mini-code "when does the challenge finish?" (https://github.com/gitfrosh/100-days-of-code-projects/tree/master/timer) ✔
+- mini-code "when does the challenge finish?" ✔
 - check out https://github.com/florinpop17/app-ideas ✔
 - collect projects:
   - dig into Javascript Grammar book
@@ -25,15 +25,15 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Sunday, 2019].
   - what to do with Firebase? ✔
   - finish IF course
   - Web Components?!
-  - Twitter Bot https://www.codewall.co.uk/twitter-bot-tutorial-retweet-nodejs/?utm_source=CWTwitter&utm_medium=social
-  - React CSS Styling: blog post comparing "normal" CSS style sheets, inline CSS styling, CSS in JS styling (glamorous, styled components,emotion,..) css modules
+  - Twitter Bot ✔
+  - React CSS Styling: compare "normal" CSS style sheets, inline CSS styling, CSS in JS styling (glamorous, styled components,emotion,..), css modules ✔
   - Svelte.js / Sapper ✔
   - build a LOTR api with Kaggle data on ~~Flask & Vue.js~~ Node.js & SSR React ✔
-  - React Hooks
+  - React Hooks ✔
   - serverless apps ✔
   - AWS Lambda (https://www.youtube.com/watch?v=3CFN9bSVfqc#action=share) ✔
   - create an npm package ✔
-  - blockchain visualization
+  - blockchain visualization ✔
 
 ### R1D2
 
@@ -633,8 +633,22 @@ R1D95 #100DaysOfCode: Again, only baby steps towards my final #React project but
 
 ### R1D96
 
-No coding today.
+R1D96 #100DaysOfCode: I finally finished my little #blockchain simulator on https://gitfrosh.github.io/blockchain-simulator/ … Originally I planned to add more features but I'm happy with the result nevertheless.. I now understand the basics of the #blockchaintechnology - which was the actual goal. 😌
 
 ### R1D97
 
-R1D96 #100DaysOfCode: I finally finished my little #blockchain simulator on https://gitfrosh.github.io/blockchain-simulator/ … 🥳 Originally I planned to add more features but I'm happy with the result nevertheless.. I now understand the basics of the #blockchaintechnology - which was the actual goal. 😌
+R1D97 #100DaysOfCode: I compared some alternatives to classic styling in  @reactjs
+with CSS and tried out inline styling, CSS-in-JS with styled-components and CSS modules. I wonder why I never considered modules because they are easy-to-use and free of 3rd party libs.
+
+### R1D98
+
+R1D98 #100DaysOfCode: I did not code today but rather began to write my recap about my #100DaysOfCode journey. It's quite a lot actually so I will be finishing it tomorrow.
+
+### R1D99
+
+Hurray, I finished my first round of the #100DaysOfCode challenge and I blogged about my journey here: (link: https://rike.dev/2019/07/18/100daysofcode-a-recap/) rike.dev/2019/07/18/100…
+There will definitely be a second round someday because I'm really happy about my finished projects. But first it's time to enjoy some summer. 
+
+### R1D100
+
+Finite Incantatem.
